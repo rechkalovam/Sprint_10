@@ -1,0 +1,1 @@
+URL_MAIN_PAGE = 'https://ez-route.stand.praktikum-services.ru/'
