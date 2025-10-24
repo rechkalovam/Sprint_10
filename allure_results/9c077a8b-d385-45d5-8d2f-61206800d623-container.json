@@ -1,0 +1,1 @@
+{"uuid": "8a91cc25-31bd-46ea-ad54-d802cbe78c8e", "children": ["f84ca5d4-a8a6-485d-81f8-544317b335a2"], "befores": [{"name": "choose_tariff", "status": "passed", "steps": [{"name": "Клик на кнопку \"Вызвать такси\"", "status": "passed", "start": 1761219870618, "stop": 1761219871061}], "start": 1761219870617, "stop": 1761219871061}], "start": 1761219870617, "stop": 1761219886453}
